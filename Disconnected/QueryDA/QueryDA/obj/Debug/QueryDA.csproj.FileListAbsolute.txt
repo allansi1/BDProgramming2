@@ -1,0 +1,8 @@
+C:\Users\allan\Programmation BD avancée disconnected mode\QueryDA\QueryDA\bin\Debug\QueryDA.exe.config
+C:\Users\allan\Programmation BD avancée disconnected mode\QueryDA\QueryDA\bin\Debug\QueryDA.exe
+C:\Users\allan\Programmation BD avancée disconnected mode\QueryDA\QueryDA\bin\Debug\QueryDA.pdb
+C:\Users\allan\Programmation BD avancée disconnected mode\QueryDA\QueryDA\obj\Debug\QueryDA.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD avancée disconnected mode\QueryDA\QueryDA\obj\Debug\QueryDA.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD avancée disconnected mode\QueryDA\QueryDA\obj\Debug\QueryDA.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD avancée disconnected mode\QueryDA\QueryDA\obj\Debug\QueryDA.exe
+C:\Users\allan\Programmation BD avancée disconnected mode\QueryDA\QueryDA\obj\Debug\QueryDA.pdb

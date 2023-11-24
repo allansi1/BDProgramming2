@@ -1,0 +1,42 @@
+D:\visual studio 2015\CS-LS-ADO\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.exe.config
+D:\visual studio 2015\CS-LS-ADO\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.exe
+D:\visual studio 2015\CS-LS-ADO\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.pdb
+D:\visual studio 2015\CS-LS-ADO\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.csproj.CoreCompileInputs.cache
+D:\visual studio 2015\CS-LS-ADO\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.exe
+D:\visual studio 2015\CS-LS-ADO\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.pdb
+D:\visual studio 2015\CS-LS-ADO\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.csprojAssemblyReference.cache
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.exe.config
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.exe
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.pdb
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.csprojAssemblyReference.cache
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.csproj.CoreCompileInputs.cache
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.exe
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.pdb
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.exe.config
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.exe
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.pdb
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.csprojAssemblyReference.cache
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.exe
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.pdb
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.exe.config
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.exe
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.pdb
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.exe
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.pdb
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.exe.config
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.exe
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.pdb
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.csprojAssemblyReference.cache
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.exe
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\bin\Debug\ExempleLINQ02a.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ02a\ExempleLINQ02a\obj\Debug\ExempleLINQ02a.pdb

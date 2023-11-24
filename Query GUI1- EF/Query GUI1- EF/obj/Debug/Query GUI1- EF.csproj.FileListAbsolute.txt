@@ -1,0 +1,16 @@
+C:\Users\allan\Programmation BD Avancée\Query GUI1- EF\Query GUI1- EF\bin\Debug\Query GUI1- EF.exe.config
+C:\Users\allan\Programmation BD Avancée\Query GUI1- EF\Query GUI1- EF\bin\Debug\Query GUI1- EF.exe
+C:\Users\allan\Programmation BD Avancée\Query GUI1- EF\Query GUI1- EF\bin\Debug\Query GUI1- EF.pdb
+C:\Users\allan\Programmation BD Avancée\Query GUI1- EF\Query GUI1- EF\bin\Debug\EntityFramework.dll
+C:\Users\allan\Programmation BD Avancée\Query GUI1- EF\Query GUI1- EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\allan\Programmation BD Avancée\Query GUI1- EF\Query GUI1- EF\bin\Debug\EntityFramework.xml
+C:\Users\allan\Programmation BD Avancée\Query GUI1- EF\Query GUI1- EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\allan\Programmation BD Avancée\Query GUI1- EF\Query GUI1- EF\obj\Debug\Query GUI1- EF.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\Query GUI1- EF\Query GUI1- EF\obj\Debug\Query GUI1- EF.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\Query GUI1- EF\Query GUI1- EF\obj\Debug\Query_GUI1__EF.Form1.resources
+C:\Users\allan\Programmation BD Avancée\Query GUI1- EF\Query GUI1- EF\obj\Debug\Query_GUI1__EF.Properties.Resources.resources
+C:\Users\allan\Programmation BD Avancée\Query GUI1- EF\Query GUI1- EF\obj\Debug\Query GUI1- EF.csproj.GenerateResource.cache
+C:\Users\allan\Programmation BD Avancée\Query GUI1- EF\Query GUI1- EF\obj\Debug\Query GUI1- EF.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\Query GUI1- EF\Query GUI1- EF\obj\Debug\Query GUI1- EF.csproj.CopyComplete
+C:\Users\allan\Programmation BD Avancée\Query GUI1- EF\Query GUI1- EF\obj\Debug\Query GUI1- EF.exe
+C:\Users\allan\Programmation BD Avancée\Query GUI1- EF\Query GUI1- EF\obj\Debug\Query GUI1- EF.pdb

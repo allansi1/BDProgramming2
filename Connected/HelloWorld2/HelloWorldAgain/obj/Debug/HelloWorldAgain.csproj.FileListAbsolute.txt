@@ -1,0 +1,12 @@
+C:\Users\allan\Programmation BD Avancée\HelloWorld2\HelloWorldAgain\bin\Debug\HelloWorldAgain.exe.config
+C:\Users\allan\Programmation BD Avancée\HelloWorld2\HelloWorldAgain\bin\Debug\HelloWorldAgain.exe
+C:\Users\allan\Programmation BD Avancée\HelloWorld2\HelloWorldAgain\bin\Debug\HelloWorldAgain.pdb
+C:\Users\allan\Programmation BD Avancée\HelloWorld2\HelloWorldAgain\obj\Debug\HelloWorldAgain.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\HelloWorld2\HelloWorldAgain\obj\Debug\HelloWorldAgain.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\HelloWorld2\HelloWorldAgain\obj\Debug\HelloWorldAgain.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\HelloWorld2\HelloWorldAgain\obj\Debug\HelloWorldAgain.exe
+C:\Users\allan\Programmation BD Avancée\HelloWorld2\HelloWorldAgain\obj\Debug\HelloWorldAgain.pdb
+C:\Users\allan\Programmation BD Avancée\HelloWorld2\HelloWorldAgain\bin\Debug\HelloWorld2.exe
+C:\Users\allan\Programmation BD Avancée\HelloWorld2\HelloWorldAgain\bin\Debug\HelloWorld2.pdb
+C:\Users\allan\Programmation BD Avancée\HelloWorld2\HelloWorldAgain\bin\Debug\HelloWorld2.exe.config
+C:\Users\allan\Programmation BD Avancée\HelloWorld2\HelloWorldAgain\obj\Debug\HelloWorldAgain.csproj.CopyComplete

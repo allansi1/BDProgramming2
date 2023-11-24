@@ -1,0 +1,11 @@
+C:\Users\allan\Programmation BD Avancée\ClientsCommands v1\ClientsCommands v1\bin\Debug\ClientsCommands v1.exe.config
+C:\Users\allan\Programmation BD Avancée\ClientsCommands v1\ClientsCommands v1\bin\Debug\ClientsCommands v1.exe
+C:\Users\allan\Programmation BD Avancée\ClientsCommands v1\ClientsCommands v1\bin\Debug\ClientsCommands v1.pdb
+C:\Users\allan\Programmation BD Avancée\ClientsCommands v1\ClientsCommands v1\obj\Debug\ClientsCommands v1.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\ClientsCommands v1\ClientsCommands v1\obj\Debug\ClientsCommands v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\ClientsCommands v1\ClientsCommands v1\obj\Debug\ClientsCommands_v1.Form1.resources
+C:\Users\allan\Programmation BD Avancée\ClientsCommands v1\ClientsCommands v1\obj\Debug\ClientsCommands_v1.Properties.Resources.resources
+C:\Users\allan\Programmation BD Avancée\ClientsCommands v1\ClientsCommands v1\obj\Debug\ClientsCommands v1.csproj.GenerateResource.cache
+C:\Users\allan\Programmation BD Avancée\ClientsCommands v1\ClientsCommands v1\obj\Debug\ClientsCommands v1.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\ClientsCommands v1\ClientsCommands v1\obj\Debug\ClientsCommands v1.exe
+C:\Users\allan\Programmation BD Avancée\ClientsCommands v1\ClientsCommands v1\obj\Debug\ClientsCommands v1.pdb

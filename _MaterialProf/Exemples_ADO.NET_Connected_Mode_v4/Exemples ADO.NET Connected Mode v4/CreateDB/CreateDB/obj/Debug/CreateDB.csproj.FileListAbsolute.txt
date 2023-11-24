@@ -1,0 +1,7 @@
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\CreateDB\CreateDB\bin\Debug\CreateDB.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\CreateDB\CreateDB\bin\Debug\CreateDB.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\CreateDB\CreateDB\bin\Debug\CreateDB.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\CreateDB\CreateDB\obj\Debug\CreateDB.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\CreateDB\CreateDB\obj\Debug\CreateDB.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\CreateDB\CreateDB\obj\Debug\CreateDB.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Connected Mode v4\CreateDB\CreateDB\obj\Debug\CreateDB.pdb

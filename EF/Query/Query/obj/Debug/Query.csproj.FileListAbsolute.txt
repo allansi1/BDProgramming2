@@ -1,0 +1,13 @@
+C:\Users\allan\Programmation BD Avancée\EF\Query\Query\bin\Debug\Query.exe.config
+C:\Users\allan\Programmation BD Avancée\EF\Query\Query\bin\Debug\Query.exe
+C:\Users\allan\Programmation BD Avancée\EF\Query\Query\bin\Debug\Query.pdb
+C:\Users\allan\Programmation BD Avancée\EF\Query\Query\bin\Debug\EntityFramework.dll
+C:\Users\allan\Programmation BD Avancée\EF\Query\Query\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\allan\Programmation BD Avancée\EF\Query\Query\bin\Debug\EntityFramework.xml
+C:\Users\allan\Programmation BD Avancée\EF\Query\Query\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\allan\Programmation BD Avancée\EF\Query\Query\obj\Debug\Query.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\EF\Query\Query\obj\Debug\Query.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\EF\Query\Query\obj\Debug\Query.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\EF\Query\Query\obj\Debug\Query.csproj.CopyComplete
+C:\Users\allan\Programmation BD Avancée\EF\Query\Query\obj\Debug\Query.exe
+C:\Users\allan\Programmation BD Avancée\EF\Query\Query\obj\Debug\Query.pdb

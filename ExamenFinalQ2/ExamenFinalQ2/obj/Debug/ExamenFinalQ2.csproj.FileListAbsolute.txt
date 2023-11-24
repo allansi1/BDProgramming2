@@ -1,0 +1,8 @@
+C:\Users\allan\Programmation BD Avancée\ExamenFinalQ2\ExamenFinalQ2\bin\Debug\ExamenFinalQ2.exe.config
+C:\Users\allan\Programmation BD Avancée\ExamenFinalQ2\ExamenFinalQ2\bin\Debug\ExamenFinalQ2.exe
+C:\Users\allan\Programmation BD Avancée\ExamenFinalQ2\ExamenFinalQ2\bin\Debug\ExamenFinalQ2.pdb
+C:\Users\allan\Programmation BD Avancée\ExamenFinalQ2\ExamenFinalQ2\obj\Debug\ExamenFinalQ2.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\ExamenFinalQ2\ExamenFinalQ2\obj\Debug\ExamenFinalQ2.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\ExamenFinalQ2\ExamenFinalQ2\obj\Debug\ExamenFinalQ2.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\ExamenFinalQ2\ExamenFinalQ2\obj\Debug\ExamenFinalQ2.exe
+C:\Users\allan\Programmation BD Avancée\ExamenFinalQ2\ExamenFinalQ2\obj\Debug\ExamenFinalQ2.pdb

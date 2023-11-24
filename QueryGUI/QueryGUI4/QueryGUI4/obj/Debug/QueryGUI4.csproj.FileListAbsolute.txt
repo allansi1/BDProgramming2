@@ -1,0 +1,11 @@
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI4\QueryGUI4\bin\Debug\QueryGUI4.exe.config
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI4\QueryGUI4\bin\Debug\QueryGUI4.exe
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI4\QueryGUI4\bin\Debug\QueryGUI4.pdb
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI4\QueryGUI4\obj\Debug\QueryGUI4.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI4\QueryGUI4\obj\Debug\QueryGUI4.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI4\QueryGUI4\obj\Debug\QueryGUI4.Form1.resources
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI4\QueryGUI4\obj\Debug\QueryGUI4.Properties.Resources.resources
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI4\QueryGUI4\obj\Debug\QueryGUI4.csproj.GenerateResource.cache
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI4\QueryGUI4\obj\Debug\QueryGUI4.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI4\QueryGUI4\obj\Debug\QueryGUI4.exe
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI4\QueryGUI4\obj\Debug\QueryGUI4.pdb

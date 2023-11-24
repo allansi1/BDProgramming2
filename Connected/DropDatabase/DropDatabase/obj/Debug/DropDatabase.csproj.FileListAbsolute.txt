@@ -1,0 +1,8 @@
+C:\Users\allan\Programmation BD Avancée\DropDatabase\DropDatabase\bin\Debug\DropDatabase.exe.config
+C:\Users\allan\Programmation BD Avancée\DropDatabase\DropDatabase\bin\Debug\DropDatabase.exe
+C:\Users\allan\Programmation BD Avancée\DropDatabase\DropDatabase\bin\Debug\DropDatabase.pdb
+C:\Users\allan\Programmation BD Avancée\DropDatabase\DropDatabase\obj\Debug\DropDatabase.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\DropDatabase\DropDatabase\obj\Debug\DropDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\DropDatabase\DropDatabase\obj\Debug\DropDatabase.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\DropDatabase\DropDatabase\obj\Debug\DropDatabase.exe
+C:\Users\allan\Programmation BD Avancée\DropDatabase\DropDatabase\obj\Debug\DropDatabase.pdb

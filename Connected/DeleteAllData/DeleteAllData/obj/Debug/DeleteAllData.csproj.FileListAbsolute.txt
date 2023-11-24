@@ -1,0 +1,8 @@
+C:\Users\allan\Programmation BD Avancée\DeleteAllData\DeleteAllData\bin\Debug\DeleteAllData.exe.config
+C:\Users\allan\Programmation BD Avancée\DeleteAllData\DeleteAllData\bin\Debug\DeleteAllData.exe
+C:\Users\allan\Programmation BD Avancée\DeleteAllData\DeleteAllData\bin\Debug\DeleteAllData.pdb
+C:\Users\allan\Programmation BD Avancée\DeleteAllData\DeleteAllData\obj\Debug\DeleteAllData.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\DeleteAllData\DeleteAllData\obj\Debug\DeleteAllData.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\DeleteAllData\DeleteAllData\obj\Debug\DeleteAllData.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\DeleteAllData\DeleteAllData\obj\Debug\DeleteAllData.exe
+C:\Users\allan\Programmation BD Avancée\DeleteAllData\DeleteAllData\obj\Debug\DeleteAllData.pdb

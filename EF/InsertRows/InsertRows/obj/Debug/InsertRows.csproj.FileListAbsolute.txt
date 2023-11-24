@@ -1,0 +1,13 @@
+C:\Users\allan\Programmation OO II\InsertRows\InsertRows\bin\Debug\InsertRows.exe.config
+C:\Users\allan\Programmation OO II\InsertRows\InsertRows\bin\Debug\InsertRows.exe
+C:\Users\allan\Programmation OO II\InsertRows\InsertRows\bin\Debug\InsertRows.pdb
+C:\Users\allan\Programmation OO II\InsertRows\InsertRows\bin\Debug\EntityFramework.dll
+C:\Users\allan\Programmation OO II\InsertRows\InsertRows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\allan\Programmation OO II\InsertRows\InsertRows\bin\Debug\EntityFramework.xml
+C:\Users\allan\Programmation OO II\InsertRows\InsertRows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\allan\Programmation OO II\InsertRows\InsertRows\obj\Debug\InsertRows.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation OO II\InsertRows\InsertRows\obj\Debug\InsertRows.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation OO II\InsertRows\InsertRows\obj\Debug\InsertRows.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation OO II\InsertRows\InsertRows\obj\Debug\InsertRows.csproj.CopyComplete
+C:\Users\allan\Programmation OO II\InsertRows\InsertRows\obj\Debug\InsertRows.exe
+C:\Users\allan\Programmation OO II\InsertRows\InsertRows\obj\Debug\InsertRows.pdb

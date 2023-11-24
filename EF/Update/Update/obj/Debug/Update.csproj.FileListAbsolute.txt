@@ -1,0 +1,13 @@
+C:\Users\allan\Programmation BD Avancée\EF\Update\Update\bin\Debug\Update.exe.config
+C:\Users\allan\Programmation BD Avancée\EF\Update\Update\bin\Debug\Update.exe
+C:\Users\allan\Programmation BD Avancée\EF\Update\Update\bin\Debug\Update.pdb
+C:\Users\allan\Programmation BD Avancée\EF\Update\Update\bin\Debug\EntityFramework.dll
+C:\Users\allan\Programmation BD Avancée\EF\Update\Update\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\allan\Programmation BD Avancée\EF\Update\Update\bin\Debug\EntityFramework.xml
+C:\Users\allan\Programmation BD Avancée\EF\Update\Update\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\allan\Programmation BD Avancée\EF\Update\Update\obj\Debug\Update.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\EF\Update\Update\obj\Debug\Update.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\EF\Update\Update\obj\Debug\Update.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\EF\Update\Update\obj\Debug\Update.csproj.CopyComplete
+C:\Users\allan\Programmation BD Avancée\EF\Update\Update\obj\Debug\Update.exe
+C:\Users\allan\Programmation BD Avancée\EF\Update\Update\obj\Debug\Update.pdb

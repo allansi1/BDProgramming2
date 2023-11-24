@@ -1,0 +1,13 @@
+C:\Users\allan\Programmation BD Avancée\EF\DeleteData\DeleteData\bin\Debug\DeleteData.exe.config
+C:\Users\allan\Programmation BD Avancée\EF\DeleteData\DeleteData\bin\Debug\DeleteData.exe
+C:\Users\allan\Programmation BD Avancée\EF\DeleteData\DeleteData\bin\Debug\DeleteData.pdb
+C:\Users\allan\Programmation BD Avancée\EF\DeleteData\DeleteData\bin\Debug\EntityFramework.dll
+C:\Users\allan\Programmation BD Avancée\EF\DeleteData\DeleteData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\allan\Programmation BD Avancée\EF\DeleteData\DeleteData\bin\Debug\EntityFramework.xml
+C:\Users\allan\Programmation BD Avancée\EF\DeleteData\DeleteData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\allan\Programmation BD Avancée\EF\DeleteData\DeleteData\obj\Debug\DeleteData.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\EF\DeleteData\DeleteData\obj\Debug\DeleteData.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\EF\DeleteData\DeleteData\obj\Debug\DeleteData.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\EF\DeleteData\DeleteData\obj\Debug\DeleteData.csproj.CopyComplete
+C:\Users\allan\Programmation BD Avancée\EF\DeleteData\DeleteData\obj\Debug\DeleteData.exe
+C:\Users\allan\Programmation BD Avancée\EF\DeleteData\DeleteData\obj\Debug\DeleteData.pdb

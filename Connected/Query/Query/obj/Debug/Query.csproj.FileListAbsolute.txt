@@ -1,0 +1,8 @@
+C:\Users\allan\Programmation BD Avancée\Query\Query\bin\Debug\Query.exe.config
+C:\Users\allan\Programmation BD Avancée\Query\Query\bin\Debug\Query.exe
+C:\Users\allan\Programmation BD Avancée\Query\Query\bin\Debug\Query.pdb
+C:\Users\allan\Programmation BD Avancée\Query\Query\obj\Debug\Query.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\Query\Query\obj\Debug\Query.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\Query\Query\obj\Debug\Query.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\Query\Query\obj\Debug\Query.exe
+C:\Users\allan\Programmation BD Avancée\Query\Query\obj\Debug\Query.pdb

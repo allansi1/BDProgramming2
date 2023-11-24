@@ -1,0 +1,13 @@
+C:\Users\allan\Programmation BD Avancée\EF\DropTabçe\DropTabçe\bin\Debug\DropTabçe.exe.config
+C:\Users\allan\Programmation BD Avancée\EF\DropTabçe\DropTabçe\bin\Debug\DropTabçe.exe
+C:\Users\allan\Programmation BD Avancée\EF\DropTabçe\DropTabçe\bin\Debug\DropTabçe.pdb
+C:\Users\allan\Programmation BD Avancée\EF\DropTabçe\DropTabçe\bin\Debug\EntityFramework.dll
+C:\Users\allan\Programmation BD Avancée\EF\DropTabçe\DropTabçe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\allan\Programmation BD Avancée\EF\DropTabçe\DropTabçe\bin\Debug\EntityFramework.xml
+C:\Users\allan\Programmation BD Avancée\EF\DropTabçe\DropTabçe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\allan\Programmation BD Avancée\EF\DropTabçe\DropTabçe\obj\Debug\DropTabçe.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\EF\DropTabçe\DropTabçe\obj\Debug\DropTabçe.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\EF\DropTabçe\DropTabçe\obj\Debug\DropTabçe.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\EF\DropTabçe\DropTabçe\obj\Debug\DropTabçe.csproj.CopyComplete
+C:\Users\allan\Programmation BD Avancée\EF\DropTabçe\DropTabçe\obj\Debug\DropTabçe.exe
+C:\Users\allan\Programmation BD Avancée\EF\DropTabçe\DropTabçe\obj\Debug\DropTabçe.pdb

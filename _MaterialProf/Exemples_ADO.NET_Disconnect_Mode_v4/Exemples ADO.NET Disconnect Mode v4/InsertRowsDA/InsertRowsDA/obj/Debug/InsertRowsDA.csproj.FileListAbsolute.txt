@@ -1,0 +1,7 @@
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\InsertRowsDA\InsertRowsDA\bin\Debug\InsertRowsDA.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\InsertRowsDA\InsertRowsDA\bin\Debug\InsertRowsDA.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\InsertRowsDA\InsertRowsDA\bin\Debug\InsertRowsDA.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\InsertRowsDA\InsertRowsDA\obj\Debug\InsertRowsDA.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\InsertRowsDA\InsertRowsDA\obj\Debug\InsertRowsDA.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\InsertRowsDA\InsertRowsDA\obj\Debug\InsertRowsDA.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\InsertRowsDA\InsertRowsDA\obj\Debug\InsertRowsDA.pdb

@@ -1,0 +1,7 @@
+D:\C#-IG 2023\MultiProject\MultiProject\bin\Debug\MultiProject.exe.config
+D:\C#-IG 2023\MultiProject\MultiProject\bin\Debug\MultiProject.exe
+D:\C#-IG 2023\MultiProject\MultiProject\bin\Debug\MultiProject.pdb
+D:\C#-IG 2023\MultiProject\MultiProject\obj\Debug\MultiProject.csprojAssemblyReference.cache
+D:\C#-IG 2023\MultiProject\MultiProject\obj\Debug\MultiProject.csproj.CoreCompileInputs.cache
+D:\C#-IG 2023\MultiProject\MultiProject\obj\Debug\MultiProject.exe
+D:\C#-IG 2023\MultiProject\MultiProject\obj\Debug\MultiProject.pdb

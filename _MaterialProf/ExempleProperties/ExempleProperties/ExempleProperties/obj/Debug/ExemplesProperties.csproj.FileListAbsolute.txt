@@ -1,0 +1,14 @@
+G:\C#-IG 2022\ExemplesProperties\ExemplesProperties\bin\Debug\ExemplesProperties.exe.config
+G:\C#-IG 2022\ExemplesProperties\ExemplesProperties\bin\Debug\ExemplesProperties.exe
+G:\C#-IG 2022\ExemplesProperties\ExemplesProperties\bin\Debug\ExemplesProperties.pdb
+G:\C#-IG 2022\ExemplesProperties\ExemplesProperties\obj\Debug\ExemplesProperties.csprojAssemblyReference.cache
+G:\C#-IG 2022\ExemplesProperties\ExemplesProperties\obj\Debug\ExemplesProperties.csproj.CoreCompileInputs.cache
+G:\C#-IG 2022\ExemplesProperties\ExemplesProperties\obj\Debug\ExemplesProperties.exe
+G:\C#-IG 2022\ExemplesProperties\ExemplesProperties\obj\Debug\ExemplesProperties.pdb
+D:\C#-IG 2022\ExemplesProperties\ExemplesProperties\bin\Debug\ExemplesProperties.exe.config
+D:\C#-IG 2022\ExemplesProperties\ExemplesProperties\bin\Debug\ExemplesProperties.exe
+D:\C#-IG 2022\ExemplesProperties\ExemplesProperties\bin\Debug\ExemplesProperties.pdb
+D:\C#-IG 2022\ExemplesProperties\ExemplesProperties\obj\Debug\ExemplesProperties.csprojAssemblyReference.cache
+D:\C#-IG 2022\ExemplesProperties\ExemplesProperties\obj\Debug\ExemplesProperties.csproj.CoreCompileInputs.cache
+D:\C#-IG 2022\ExemplesProperties\ExemplesProperties\obj\Debug\ExemplesProperties.exe
+D:\C#-IG 2022\ExemplesProperties\ExemplesProperties\obj\Debug\ExemplesProperties.pdb

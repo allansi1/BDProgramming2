@@ -1,0 +1,20 @@
+F:\C# ADO.NET LS-W2023\Exercises\ExampleProject\ExampleProject\bin\Debug\ExampleProject.exe.config
+F:\C# ADO.NET LS-W2023\Exercises\ExampleProject\ExampleProject\bin\Debug\ExampleProject.exe
+F:\C# ADO.NET LS-W2023\Exercises\ExampleProject\ExampleProject\bin\Debug\ExampleProject.pdb
+F:\C# ADO.NET LS-W2023\Exercises\ExampleProject\ExampleProject\obj\Debug\ExampleProject.csprojAssemblyReference.cache
+F:\C# ADO.NET LS-W2023\Exercises\ExampleProject\ExampleProject\obj\Debug\ExampleProject.Form1.resources
+F:\C# ADO.NET LS-W2023\Exercises\ExampleProject\ExampleProject\obj\Debug\ExampleProject.Properties.Resources.resources
+F:\C# ADO.NET LS-W2023\Exercises\ExampleProject\ExampleProject\obj\Debug\ExampleProject.csproj.GenerateResource.cache
+F:\C# ADO.NET LS-W2023\Exercises\ExampleProject\ExampleProject\obj\Debug\ExampleProject.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET LS-W2023\Exercises\ExampleProject\ExampleProject\obj\Debug\ExampleProject.exe
+F:\C# ADO.NET LS-W2023\Exercises\ExampleProject\ExampleProject\obj\Debug\ExampleProject.pdb
+E:\C# ADO.NET LS-W2023\Exemples Special\ExampleProject\ExampleProject\bin\Debug\ExampleProject.exe.config
+E:\C# ADO.NET LS-W2023\Exemples Special\ExampleProject\ExampleProject\bin\Debug\ExampleProject.exe
+E:\C# ADO.NET LS-W2023\Exemples Special\ExampleProject\ExampleProject\bin\Debug\ExampleProject.pdb
+E:\C# ADO.NET LS-W2023\Exemples Special\ExampleProject\ExampleProject\obj\Debug\ExampleProject.csprojAssemblyReference.cache
+E:\C# ADO.NET LS-W2023\Exemples Special\ExampleProject\ExampleProject\obj\Debug\ExampleProject.Form1.resources
+E:\C# ADO.NET LS-W2023\Exemples Special\ExampleProject\ExampleProject\obj\Debug\ExampleProject.Properties.Resources.resources
+E:\C# ADO.NET LS-W2023\Exemples Special\ExampleProject\ExampleProject\obj\Debug\ExampleProject.csproj.GenerateResource.cache
+E:\C# ADO.NET LS-W2023\Exemples Special\ExampleProject\ExampleProject\obj\Debug\ExampleProject.csproj.CoreCompileInputs.cache
+E:\C# ADO.NET LS-W2023\Exemples Special\ExampleProject\ExampleProject\obj\Debug\ExampleProject.exe
+E:\C# ADO.NET LS-W2023\Exemples Special\ExampleProject\ExampleProject\obj\Debug\ExampleProject.pdb

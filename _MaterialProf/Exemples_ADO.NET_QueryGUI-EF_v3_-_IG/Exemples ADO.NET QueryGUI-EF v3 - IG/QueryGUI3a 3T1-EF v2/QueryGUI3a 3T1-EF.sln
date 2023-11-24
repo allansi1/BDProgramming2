@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33529.398
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryGUI3a 3T1-EF", "QueryGUI3a 3T1-EF\QueryGUI3a 3T1-EF.csproj", "{D110B05E-9271-4495-BE28-D0D8F5871F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D110B05E-9271-4495-BE28-D0D8F5871F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D110B05E-9271-4495-BE28-D0D8F5871F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D110B05E-9271-4495-BE28-D0D8F5871F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D110B05E-9271-4495-BE28-D0D8F5871F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A13549BA-BA39-45B6-B1F7-454880321D5D}
+	EndGlobalSection
+EndGlobal

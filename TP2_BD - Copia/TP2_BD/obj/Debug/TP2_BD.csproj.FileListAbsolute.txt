@@ -1,0 +1,24 @@
+C:\Users\allan\Programmation BD Avancée\TP2_BD\TP2_BD\bin\Debug\TP2_BD.exe.config
+C:\Users\allan\Programmation BD Avancée\TP2_BD\TP2_BD\bin\Debug\TP2_BD.exe
+C:\Users\allan\Programmation BD Avancée\TP2_BD\TP2_BD\bin\Debug\TP2_BD.pdb
+C:\Users\allan\Programmation BD Avancée\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Form1.resources
+C:\Users\allan\Programmation BD Avancée\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Properties.Resources.resources
+C:\Users\allan\Programmation BD Avancée\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csproj.GenerateResource.cache
+C:\Users\allan\Programmation BD Avancée\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\TP2_BD\TP2_BD\obj\Debug\TP2_BD.exe
+C:\Users\allan\Programmation BD Avancée\TP2_BD\TP2_BD\obj\Debug\TP2_BD.pdb
+C:\Users\allan\Programmation BD Avancée\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Form2.resources
+C:\Users\allan\Programmation BD Avancée\TP2_BD - Copia\TP2_BD\bin\Debug\TP2_BD.exe.config
+C:\Users\allan\Programmation BD Avancée\TP2_BD - Copia\TP2_BD\bin\Debug\TP2_BD.exe
+C:\Users\allan\Programmation BD Avancée\TP2_BD - Copia\TP2_BD\bin\Debug\TP2_BD.pdb
+C:\Users\allan\Programmation BD Avancée\TP2_BD - Copia\TP2_BD\obj\Debug\TP2_BD.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\TP2_BD - Copia\TP2_BD\obj\Debug\TP2_BD.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\TP2_BD - Copia\TP2_BD\obj\Debug\TP2_BD.Form1.resources
+C:\Users\allan\Programmation BD Avancée\TP2_BD - Copia\TP2_BD\obj\Debug\TP2_BD.Form2.resources
+C:\Users\allan\Programmation BD Avancée\TP2_BD - Copia\TP2_BD\obj\Debug\TP2_BD.Properties.Resources.resources
+C:\Users\allan\Programmation BD Avancée\TP2_BD - Copia\TP2_BD\obj\Debug\TP2_BD.csproj.GenerateResource.cache
+C:\Users\allan\Programmation BD Avancée\TP2_BD - Copia\TP2_BD\obj\Debug\TP2_BD.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\TP2_BD - Copia\TP2_BD\obj\Debug\TP2_BD.exe
+C:\Users\allan\Programmation BD Avancée\TP2_BD - Copia\TP2_BD\obj\Debug\TP2_BD.pdb

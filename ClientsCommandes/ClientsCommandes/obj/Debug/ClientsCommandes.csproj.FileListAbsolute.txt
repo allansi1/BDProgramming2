@@ -1,0 +1,16 @@
+C:\Users\allan\Programmation BD Avancée\ClientsCommandes\ClientsCommandes\bin\Debug\ClientsCommandes.exe.config
+C:\Users\allan\Programmation BD Avancée\ClientsCommandes\ClientsCommandes\bin\Debug\ClientsCommandes.exe
+C:\Users\allan\Programmation BD Avancée\ClientsCommandes\ClientsCommandes\bin\Debug\ClientsCommandes.pdb
+C:\Users\allan\Programmation BD Avancée\ClientsCommandes\ClientsCommandes\bin\Debug\EntityFramework.dll
+C:\Users\allan\Programmation BD Avancée\ClientsCommandes\ClientsCommandes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\allan\Programmation BD Avancée\ClientsCommandes\ClientsCommandes\bin\Debug\EntityFramework.xml
+C:\Users\allan\Programmation BD Avancée\ClientsCommandes\ClientsCommandes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\allan\Programmation BD Avancée\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.Form1.resources
+C:\Users\allan\Programmation BD Avancée\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.Properties.Resources.resources
+C:\Users\allan\Programmation BD Avancée\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.GenerateResource.cache
+C:\Users\allan\Programmation BD Avancée\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.CopyComplete
+C:\Users\allan\Programmation BD Avancée\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.exe
+C:\Users\allan\Programmation BD Avancée\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.pdb

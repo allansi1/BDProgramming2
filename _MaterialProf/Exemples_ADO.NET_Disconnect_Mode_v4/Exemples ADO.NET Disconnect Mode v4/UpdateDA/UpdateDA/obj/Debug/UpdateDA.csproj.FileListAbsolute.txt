@@ -1,0 +1,7 @@
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\UpdateDA\UpdateDA\bin\Debug\UpdateDA.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\UpdateDA\UpdateDA\bin\Debug\UpdateDA.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\UpdateDA\UpdateDA\bin\Debug\UpdateDA.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\UpdateDA\UpdateDA\obj\Debug\UpdateDA.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\UpdateDA\UpdateDA\obj\Debug\UpdateDA.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\UpdateDA\UpdateDA\obj\Debug\UpdateDA.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\UpdateDA\UpdateDA\obj\Debug\UpdateDA.pdb

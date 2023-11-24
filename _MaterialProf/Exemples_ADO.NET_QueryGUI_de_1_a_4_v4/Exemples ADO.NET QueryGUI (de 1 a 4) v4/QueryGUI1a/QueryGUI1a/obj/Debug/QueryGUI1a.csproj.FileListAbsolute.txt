@@ -1,0 +1,10 @@
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI1a\QueryGUI1a\bin\Debug\QueryGUI1a.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI1a\QueryGUI1a\bin\Debug\QueryGUI1a.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI1a\QueryGUI1a\bin\Debug\QueryGUI1a.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI1a\QueryGUI1a\obj\Debug\QueryGUI1a.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI1a\QueryGUI1a\obj\Debug\QueryGUI1a.Form1.resources
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI1a\QueryGUI1a\obj\Debug\QueryGUI1a.Properties.Resources.resources
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI1a\QueryGUI1a\obj\Debug\QueryGUI1a.csproj.GenerateResource.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI1a\QueryGUI1a\obj\Debug\QueryGUI1a.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI1a\QueryGUI1a\obj\Debug\QueryGUI1a.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI1a\QueryGUI1a\obj\Debug\QueryGUI1a.pdb

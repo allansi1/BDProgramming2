@@ -1,0 +1,8 @@
+C:\Users\allan\Programmation BD Avancée\MultiProject\MultiProject\bin\Debug\MultiProject.exe.config
+C:\Users\allan\Programmation BD Avancée\MultiProject\MultiProject\bin\Debug\MultiProject.exe
+C:\Users\allan\Programmation BD Avancée\MultiProject\MultiProject\bin\Debug\MultiProject.pdb
+C:\Users\allan\Programmation BD Avancée\MultiProject\MultiProject\obj\Debug\MultiProject.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\MultiProject\MultiProject\obj\Debug\MultiProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\MultiProject\MultiProject\obj\Debug\MultiProject.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\MultiProject\MultiProject\obj\Debug\MultiProject.exe
+C:\Users\allan\Programmation BD Avancée\MultiProject\MultiProject\obj\Debug\MultiProject.pdb

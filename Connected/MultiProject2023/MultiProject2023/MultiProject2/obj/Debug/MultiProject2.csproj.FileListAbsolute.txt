@@ -1,0 +1,11 @@
+D:\C#-IG 2023\MultiProject\MultiProject2\bin\Debug\MultiProject2.exe.config
+D:\C#-IG 2023\MultiProject\MultiProject2\bin\Debug\MultiProject2.exe
+D:\C#-IG 2023\MultiProject\MultiProject2\bin\Debug\MultiProject2.pdb
+D:\C#-IG 2023\MultiProject\MultiProject2\bin\Debug\MultiProject.exe
+D:\C#-IG 2023\MultiProject\MultiProject2\bin\Debug\MultiProject.pdb
+D:\C#-IG 2023\MultiProject\MultiProject2\bin\Debug\MultiProject.exe.config
+D:\C#-IG 2023\MultiProject\MultiProject2\obj\Debug\MultiProject2.csprojAssemblyReference.cache
+D:\C#-IG 2023\MultiProject\MultiProject2\obj\Debug\MultiProject2.csproj.CoreCompileInputs.cache
+D:\C#-IG 2023\MultiProject\MultiProject2\obj\Debug\MultiProject2.csproj.CopyComplete
+D:\C#-IG 2023\MultiProject\MultiProject2\obj\Debug\MultiProject2.exe
+D:\C#-IG 2023\MultiProject\MultiProject2\obj\Debug\MultiProject2.pdb

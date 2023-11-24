@@ -1,0 +1,8 @@
+C:\Users\allan\Programmation BD Avancée\DropTables\DropTables\bin\Debug\DropTables.exe.config
+C:\Users\allan\Programmation BD Avancée\DropTables\DropTables\bin\Debug\DropTables.exe
+C:\Users\allan\Programmation BD Avancée\DropTables\DropTables\bin\Debug\DropTables.pdb
+C:\Users\allan\Programmation BD Avancée\DropTables\DropTables\obj\Debug\DropTables.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\DropTables\DropTables\obj\Debug\DropTables.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\DropTables\DropTables\obj\Debug\DropTables.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\DropTables\DropTables\obj\Debug\DropTables.exe
+C:\Users\allan\Programmation BD Avancée\DropTables\DropTables\obj\Debug\DropTables.pdb

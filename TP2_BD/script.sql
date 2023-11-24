@@ -1,0 +1,66 @@
+IF db_id('College1en') IS NULL CREATE DATABASE College1en;
+GO
+
+-- creation des tables
+
+USE College1en;
+
+CREATE TABLE Programs (
+  ProgId VARCHAR(5) NOT NULL PRIMARY KEY,
+  ProgName VARCHAR(50) NOT NULL
+);
+GO
+
+CREATE TABLE Courses (
+  CId VARCHAR(7) NOT NULL PRIMARY KEY,
+  CName VARCHAR(50) NOT NULL,
+  ProgId VARCHAR(5) NOT NULL,
+  FOREIGN KEY (ProgId) REFERENCES Programs(ProgId) ON DELETE CASCADE ON UPDATE CASCADE
+);
+GO
+
+CREATE TABLE Students (
+  StId VARCHAR(10) NOT NULL PRIMARY KEY,
+  StName VARCHAR(50) NOT NULL,
+  ProgId VARCHAR(5) NOT NULL,
+  FOREIGN KEY (ProgId) REFERENCES Programs(ProgId) ON DELETE NO ACTION ON UPDATE CASCADE
+);
+GO
+
+CREATE TABLE Enrollments (
+  StId VARCHAR(10) NOT NULL,
+  CId VARCHAR(7) NOT NULL,
+  FinalGrade INT,
+  PRIMARY KEY (StId, CId),
+  FOREIGN KEY (StId) REFERENCES Students(StId) ON DELETE CASCADE ON UPDATE CASCADE,
+  FOREIGN KEY (CId) REFERENCES Courses(CId) ON DELETE NO ACTION ON UPDATE NO ACTION
+);
+GO
+
+--insert values on table
+INSERT INTO Programs (ProgId, ProgName) VALUES
+  ('P0001', 'Batiment'),
+  ('P0002', 'Informatique'),
+  ('P0003', 'Cinema');
+GO
+
+INSERT INTO Courses (CId, CName, ProgId) VALUES
+  ('C000001', 'Java', 'P0002'),
+  ('C000002', 'BD', 'P0002'),
+  ('C000003', 'Adobe', 'P0003'),
+  ('C000004', 'Inspection', 'P0001');
+GO
+
+INSERT INTO Students (StId, StName, ProgId) VALUES
+  ('S000000001', 'Mary', 'P0001'),
+  ('S000000002', 'John', 'P0002'),
+  ('S000000003', 'Carlos', 'P0003'),
+  ('S000000004', 'Charles', 'P0002');
+GO
+
+INSERT INTO Enrollments (StId, CId, FinalGrade) VALUES
+  ('S000000001', 'C000004', 85),
+  ('S000000002', 'C000001', 90),
+  ('S000000003', 'C000003', 80),
+  ('S000000004', 'C000002', 80);
+GO

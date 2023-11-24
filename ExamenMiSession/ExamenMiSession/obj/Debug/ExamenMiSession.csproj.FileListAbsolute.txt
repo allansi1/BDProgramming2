@@ -1,0 +1,11 @@
+C:\Users\allan\Programmation BD Avancée\ExamenMiSession\ExamenMiSession\bin\Debug\ExamenMiSession.exe.config
+C:\Users\allan\Programmation BD Avancée\ExamenMiSession\ExamenMiSession\bin\Debug\ExamenMiSession.exe
+C:\Users\allan\Programmation BD Avancée\ExamenMiSession\ExamenMiSession\bin\Debug\ExamenMiSession.pdb
+C:\Users\allan\Programmation BD Avancée\ExamenMiSession\ExamenMiSession\obj\Debug\ExamenMiSession.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\ExamenMiSession\ExamenMiSession\obj\Debug\ExamenMiSession.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\ExamenMiSession\ExamenMiSession\obj\Debug\ExamenMiSession.Form1.resources
+C:\Users\allan\Programmation BD Avancée\ExamenMiSession\ExamenMiSession\obj\Debug\ExamenMiSession.Properties.Resources.resources
+C:\Users\allan\Programmation BD Avancée\ExamenMiSession\ExamenMiSession\obj\Debug\ExamenMiSession.csproj.GenerateResource.cache
+C:\Users\allan\Programmation BD Avancée\ExamenMiSession\ExamenMiSession\obj\Debug\ExamenMiSession.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\ExamenMiSession\ExamenMiSession\obj\Debug\ExamenMiSession.exe
+C:\Users\allan\Programmation BD Avancée\ExamenMiSession\ExamenMiSession\obj\Debug\ExamenMiSession.pdb

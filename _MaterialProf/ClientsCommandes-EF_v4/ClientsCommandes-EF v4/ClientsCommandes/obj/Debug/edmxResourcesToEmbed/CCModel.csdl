@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="clientsCommandesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Clients">
+    <Key>
+      <PropertyRef Name="ClientId" />
+    </Key>
+    <Property Name="ClientId" Type="Int32" Nullable="false" />
+    <Property Name="Nom" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Commandes">
+    <Key>
+      <PropertyRef Name="ComId" />
+    </Key>
+    <Property Name="ComId" Type="Int32" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Prix" Type="Decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="ClientId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Commandes__Clien__3A81B327">
+    <End Role="Clients" Type="Self.Clients" Multiplicity="1" />
+    <End Role="Commandes" Type="Self.Commandes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clients">
+        <PropertyRef Name="ClientId" />
+      </Principal>
+      <Dependent Role="Commandes">
+        <PropertyRef Name="ClientId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="clientsCommandesEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Clients" EntityType="Self.Clients" />
+    <EntitySet Name="Commandes" EntityType="Self.Commandes" />
+    <AssociationSet Name="FK__Commandes__Clien__3A81B327" Association="Self.FK__Commandes__Clien__3A81B327">
+      <End Role="Clients" EntitySet="Clients" />
+      <End Role="Commandes" EntitySet="Commandes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

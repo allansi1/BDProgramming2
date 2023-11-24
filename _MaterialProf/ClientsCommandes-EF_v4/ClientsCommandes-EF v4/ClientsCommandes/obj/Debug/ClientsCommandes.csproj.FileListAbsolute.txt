@@ -1,0 +1,60 @@
+F:\C# ADO.NET LS-W2023\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.csprojAssemblyReference.cache
+F:\C# ADO.NET LS-W2023\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.Form1.resources
+F:\C# ADO.NET LS-W2023\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.Properties.Resources.resources
+F:\C# ADO.NET LS-W2023\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.GenerateResource.cache
+F:\C# ADO.NET LS-W2023\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET LS-W2023\ClientsCommandes\ClientsCommandes\bin\Debug\ClientsCommandes.exe.config
+F:\C# ADO.NET LS-W2023\ClientsCommandes\ClientsCommandes\bin\Debug\ClientsCommandes.exe
+F:\C# ADO.NET LS-W2023\ClientsCommandes\ClientsCommandes\bin\Debug\ClientsCommandes.pdb
+F:\C# ADO.NET LS-W2023\ClientsCommandes\ClientsCommandes\bin\Debug\EntityFramework.dll
+F:\C# ADO.NET LS-W2023\ClientsCommandes\ClientsCommandes\bin\Debug\EntityFramework.SqlServer.dll
+F:\C# ADO.NET LS-W2023\ClientsCommandes\ClientsCommandes\bin\Debug\EntityFramework.xml
+F:\C# ADO.NET LS-W2023\ClientsCommandes\ClientsCommandes\bin\Debug\EntityFramework.SqlServer.xml
+F:\C# ADO.NET LS-W2023\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.CopyComplete
+F:\C# ADO.NET LS-W2023\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.exe
+F:\C# ADO.NET LS-W2023\ClientsCommandes\ClientsCommandes\obj\Debug\ClientsCommandes.pdb
+F:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\bin\Debug\ClientsCommandes.exe.config
+F:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\bin\Debug\ClientsCommandes.exe
+F:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\bin\Debug\ClientsCommandes.pdb
+F:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\bin\Debug\EntityFramework.dll
+F:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\bin\Debug\EntityFramework.SqlServer.dll
+F:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\bin\Debug\EntityFramework.xml
+F:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\bin\Debug\EntityFramework.SqlServer.xml
+F:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\obj\Debug\ClientsCommandes.csprojAssemblyReference.cache
+F:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\obj\Debug\ClientsCommandes.Form1.resources
+F:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\obj\Debug\ClientsCommandes.Properties.Resources.resources
+F:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.GenerateResource.cache
+F:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.CopyComplete
+F:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\obj\Debug\ClientsCommandes.exe
+F:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\obj\Debug\ClientsCommandes.pdb
+E:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\bin\Debug\ClientsCommandes.exe.config
+E:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\bin\Debug\ClientsCommandes.exe
+E:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\bin\Debug\ClientsCommandes.pdb
+E:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\bin\Debug\EntityFramework.dll
+E:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\bin\Debug\EntityFramework.xml
+E:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\obj\Debug\ClientsCommandes.csprojAssemblyReference.cache
+E:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\obj\Debug\ClientsCommandes.Form1.resources
+E:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\obj\Debug\ClientsCommandes.Properties.Resources.resources
+E:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.GenerateResource.cache
+E:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.CoreCompileInputs.cache
+E:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.CopyComplete
+E:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\obj\Debug\ClientsCommandes.exe
+E:\C# ADO.NET LS-W2023\ClientsCommandes-EF v3\ClientsCommandes\obj\Debug\ClientsCommandes.pdb
+F:\C# ADO.NET IG-2023\ClientsCommandes-EF v4\ClientsCommandes\bin\Debug\ClientsCommandes.exe.config
+F:\C# ADO.NET IG-2023\ClientsCommandes-EF v4\ClientsCommandes\bin\Debug\ClientsCommandes.exe
+F:\C# ADO.NET IG-2023\ClientsCommandes-EF v4\ClientsCommandes\bin\Debug\ClientsCommandes.pdb
+F:\C# ADO.NET IG-2023\ClientsCommandes-EF v4\ClientsCommandes\bin\Debug\EntityFramework.dll
+F:\C# ADO.NET IG-2023\ClientsCommandes-EF v4\ClientsCommandes\bin\Debug\EntityFramework.SqlServer.dll
+F:\C# ADO.NET IG-2023\ClientsCommandes-EF v4\ClientsCommandes\bin\Debug\EntityFramework.xml
+F:\C# ADO.NET IG-2023\ClientsCommandes-EF v4\ClientsCommandes\bin\Debug\EntityFramework.SqlServer.xml
+F:\C# ADO.NET IG-2023\ClientsCommandes-EF v4\ClientsCommandes\obj\Debug\ClientsCommandes.csprojAssemblyReference.cache
+F:\C# ADO.NET IG-2023\ClientsCommandes-EF v4\ClientsCommandes\obj\Debug\ClientsCommandes.Form1.resources
+F:\C# ADO.NET IG-2023\ClientsCommandes-EF v4\ClientsCommandes\obj\Debug\ClientsCommandes.Properties.Resources.resources
+F:\C# ADO.NET IG-2023\ClientsCommandes-EF v4\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.GenerateResource.cache
+F:\C# ADO.NET IG-2023\ClientsCommandes-EF v4\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET IG-2023\ClientsCommandes-EF v4\ClientsCommandes\obj\Debug\ClientsCommandes.csproj.CopyComplete
+F:\C# ADO.NET IG-2023\ClientsCommandes-EF v4\ClientsCommandes\obj\Debug\ClientsCommandes.exe
+F:\C# ADO.NET IG-2023\ClientsCommandes-EF v4\ClientsCommandes\obj\Debug\ClientsCommandes.pdb

@@ -1,0 +1,11 @@
+C:\Users\allan\Programmation BD Avancée\Test\Test\bin\Debug\Test.exe.config
+C:\Users\allan\Programmation BD Avancée\Test\Test\bin\Debug\Test.exe
+C:\Users\allan\Programmation BD Avancée\Test\Test\bin\Debug\Test.pdb
+C:\Users\allan\Programmation BD Avancée\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\allan\Programmation BD Avancée\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\allan\Programmation BD Avancée\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\allan\Programmation BD Avancée\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\Test\Test\obj\Debug\Test.exe
+C:\Users\allan\Programmation BD Avancée\Test\Test\obj\Debug\Test.pdb

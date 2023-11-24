@@ -1,0 +1,20 @@
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI2a\QueryGUI2a\bin\Debug\QueryGUI2a.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI2a\QueryGUI2a\bin\Debug\QueryGUI2a.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI2a\QueryGUI2a\bin\Debug\QueryGUI2a.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI2a\QueryGUI2a\obj\Debug\QueryGUI2a.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI2a\QueryGUI2a\obj\Debug\QueryGUI2a.Form1.resources
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI2a\QueryGUI2a\obj\Debug\QueryGUI2a.Properties.Resources.resources
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI2a\QueryGUI2a\obj\Debug\QueryGUI2a.csproj.GenerateResource.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI2a\QueryGUI2a\obj\Debug\QueryGUI2a.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI2a\QueryGUI2a\obj\Debug\QueryGUI2a.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI (de 1 a 4) v4\QueryGUI2a\QueryGUI2a\obj\Debug\QueryGUI2a.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI 3c v2\QueryGUI2a 3T0\QueryGUI2a\bin\Debug\QueryGUI2a.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI 3c v2\QueryGUI2a 3T0\QueryGUI2a\bin\Debug\QueryGUI2a.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI 3c v2\QueryGUI2a 3T0\QueryGUI2a\bin\Debug\QueryGUI2a.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI 3c v2\QueryGUI2a 3T0\QueryGUI2a\obj\Debug\QueryGUI2a.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI 3c v2\QueryGUI2a 3T0\QueryGUI2a\obj\Debug\QueryGUI2a.Form1.resources
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI 3c v2\QueryGUI2a 3T0\QueryGUI2a\obj\Debug\QueryGUI2a.Properties.Resources.resources
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI 3c v2\QueryGUI2a 3T0\QueryGUI2a\obj\Debug\QueryGUI2a.csproj.GenerateResource.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI 3c v2\QueryGUI2a 3T0\QueryGUI2a\obj\Debug\QueryGUI2a.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI 3c v2\QueryGUI2a 3T0\QueryGUI2a\obj\Debug\QueryGUI2a.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI 3c v2\QueryGUI2a 3T0\QueryGUI2a\obj\Debug\QueryGUI2a.pdb

@@ -1,0 +1,7 @@
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\QueryDA\QueryDA\bin\Debug\QueryDA.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\QueryDA\QueryDA\bin\Debug\QueryDA.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\QueryDA\QueryDA\bin\Debug\QueryDA.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\QueryDA\QueryDA\obj\Debug\QueryDA.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\QueryDA\QueryDA\obj\Debug\QueryDA.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\QueryDA\QueryDA\obj\Debug\QueryDA.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET Disconnect Mode v4\QueryDA\QueryDA\obj\Debug\QueryDA.pdb

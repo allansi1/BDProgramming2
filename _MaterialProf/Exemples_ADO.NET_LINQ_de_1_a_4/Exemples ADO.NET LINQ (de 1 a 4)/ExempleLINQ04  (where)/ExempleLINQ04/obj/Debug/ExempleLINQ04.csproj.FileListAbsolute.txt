@@ -1,0 +1,56 @@
+D:\visual studio 2015\CS-LS-ADO\ExempleLINQ04\ExempleLINQ04\bin\Debug\ExempleLINQ04.exe.config
+D:\visual studio 2015\CS-LS-ADO\ExempleLINQ04\ExempleLINQ04\bin\Debug\ExempleLINQ04.exe
+D:\visual studio 2015\CS-LS-ADO\ExempleLINQ04\ExempleLINQ04\bin\Debug\ExempleLINQ04.pdb
+D:\visual studio 2015\CS-LS-ADO\ExempleLINQ04\ExempleLINQ04\obj\Debug\ExempleLINQ04.csprojAssemblyReference.cache
+D:\visual studio 2015\CS-LS-ADO\ExempleLINQ04\ExempleLINQ04\obj\Debug\ExempleLINQ04.csproj.CoreCompileInputs.cache
+D:\visual studio 2015\CS-LS-ADO\ExempleLINQ04\ExempleLINQ04\obj\Debug\ExempleLINQ04.exe
+D:\visual studio 2015\CS-LS-ADO\ExempleLINQ04\ExempleLINQ04\obj\Debug\ExempleLINQ04.pdb
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ04\ExempleLINQ04\bin\Debug\ExempleLINQ04.exe.config
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ04\ExempleLINQ04\bin\Debug\ExempleLINQ04.exe
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ04\ExempleLINQ04\bin\Debug\ExempleLINQ04.pdb
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ04\ExempleLINQ04\obj\Debug\ExempleLINQ04.csprojAssemblyReference.cache
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ04\ExempleLINQ04\obj\Debug\ExempleLINQ04.csproj.CoreCompileInputs.cache
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ04\ExempleLINQ04\obj\Debug\ExempleLINQ04.exe
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ04\ExempleLINQ04\obj\Debug\ExempleLINQ04.pdb
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.exe.config
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.exe
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.pdb
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.csprojAssemblyReference.cache
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.csproj.CoreCompileInputs.cache
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.exe
+C:\visual studio 2015\CS-LS-ADO\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.pdb
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.exe.config
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.exe
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.pdb
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.csprojAssemblyReference.cache
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.csproj.CoreCompileInputs.cache
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.exe
+E:\C# ADO.NET IG\CS-ADO-IG\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.pdb
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.exe.config
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.exe
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.pdb
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.csprojAssemblyReference.cache
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.exe
+F:\C# ADO.NET IG-2021\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.pdb
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.exe.config
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.exe
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.pdb
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.exe
+D:\C# ADO.NET IG-2022\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.pdb
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.exe.config
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.exe
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.pdb
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.csprojAssemblyReference.cache
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.exe
+F:\C# ADO.NET LS-W2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.exe.config
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\bin\Debug\ExempleLINQ04.pdb
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.csprojAssemblyReference.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.csproj.CoreCompileInputs.cache
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.exe
+D:\C# ADO.NET IG-2023\Exemples ADO.NET LINQ (de 1 a 4)\ExempleLINQ04  (where)\ExempleLINQ04\obj\Debug\ExempleLINQ04.pdb

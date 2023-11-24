@@ -1,0 +1,33 @@
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI3\QueryGUI3\bin\Debug\QueryGUI3.exe.config
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI3\QueryGUI3\bin\Debug\QueryGUI3.exe
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI3\QueryGUI3\bin\Debug\QueryGUI3.pdb
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI3\QueryGUI3\obj\Debug\QueryGUI3.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI3\QueryGUI3\obj\Debug\QueryGUI3.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI3\QueryGUI3\obj\Debug\QueryGUI3.Form1.resources
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI3\QueryGUI3\obj\Debug\QueryGUI3.Properties.Resources.resources
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI3\QueryGUI3\obj\Debug\QueryGUI3.csproj.GenerateResource.cache
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI3\QueryGUI3\obj\Debug\QueryGUI3.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI3\QueryGUI3\obj\Debug\QueryGUI3.exe
+C:\Users\allan\Programmation BD Avancée\GUI\QueryGUI3\QueryGUI3\obj\Debug\QueryGUI3.pdb
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T0\QueryGUI3\bin\Debug\QueryGUI3.exe.config
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T0\QueryGUI3\bin\Debug\QueryGUI3.exe
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T0\QueryGUI3\bin\Debug\QueryGUI3.pdb
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T0\QueryGUI3\obj\Debug\QueryGUI3.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T0\QueryGUI3\obj\Debug\QueryGUI3.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T0\QueryGUI3\obj\Debug\QueryGUI3.Form1.resources
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T0\QueryGUI3\obj\Debug\QueryGUI3.Properties.Resources.resources
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T0\QueryGUI3\obj\Debug\QueryGUI3.csproj.GenerateResource.cache
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T0\QueryGUI3\obj\Debug\QueryGUI3.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T0\QueryGUI3\obj\Debug\QueryGUI3.exe
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T0\QueryGUI3\obj\Debug\QueryGUI3.pdb
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T1\QueryGUI3\bin\Debug\QueryGUI3.exe.config
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T1\QueryGUI3\bin\Debug\QueryGUI3.exe
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T1\QueryGUI3\bin\Debug\QueryGUI3.pdb
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T1\QueryGUI3\obj\Debug\QueryGUI3.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T1\QueryGUI3\obj\Debug\QueryGUI3.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T1\QueryGUI3\obj\Debug\QueryGUI3.Form1.resources
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T1\QueryGUI3\obj\Debug\QueryGUI3.Properties.Resources.resources
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T1\QueryGUI3\obj\Debug\QueryGUI3.csproj.GenerateResource.cache
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T1\QueryGUI3\obj\Debug\QueryGUI3.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T1\QueryGUI3\obj\Debug\QueryGUI3.exe
+C:\Users\allan\Programmation BD Avancée\QueryGUI 3c v2\QueryGUI3a  3T1\QueryGUI3\obj\Debug\QueryGUI3.pdb

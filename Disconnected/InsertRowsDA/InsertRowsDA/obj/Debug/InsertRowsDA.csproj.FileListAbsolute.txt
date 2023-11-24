@@ -1,0 +1,8 @@
+C:\Users\allan\Programmation BD avancée disconnected mode\InsertRowsDA\InsertRowsDA\bin\Debug\InsertRowsDA.exe.config
+C:\Users\allan\Programmation BD avancée disconnected mode\InsertRowsDA\InsertRowsDA\bin\Debug\InsertRowsDA.exe
+C:\Users\allan\Programmation BD avancée disconnected mode\InsertRowsDA\InsertRowsDA\bin\Debug\InsertRowsDA.pdb
+C:\Users\allan\Programmation BD avancée disconnected mode\InsertRowsDA\InsertRowsDA\obj\Debug\InsertRowsDA.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD avancée disconnected mode\InsertRowsDA\InsertRowsDA\obj\Debug\InsertRowsDA.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD avancée disconnected mode\InsertRowsDA\InsertRowsDA\obj\Debug\InsertRowsDA.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD avancée disconnected mode\InsertRowsDA\InsertRowsDA\obj\Debug\InsertRowsDA.exe
+C:\Users\allan\Programmation BD avancée disconnected mode\InsertRowsDA\InsertRowsDA\obj\Debug\InsertRowsDA.pdb

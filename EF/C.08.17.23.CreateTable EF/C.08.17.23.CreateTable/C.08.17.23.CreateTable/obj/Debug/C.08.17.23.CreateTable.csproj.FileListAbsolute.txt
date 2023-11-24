@@ -1,0 +1,26 @@
+C:\Users\tetas\source\repos\Sesion 3\DBA3\EntityFramework\C.08.17.23.CreateTable\C.08.17.23.CreateTable\bin\Debug\C.08.17.23.CreateTable.exe.config
+C:\Users\tetas\source\repos\Sesion 3\DBA3\EntityFramework\C.08.17.23.CreateTable\C.08.17.23.CreateTable\bin\Debug\C.08.17.23.CreateTable.exe
+C:\Users\tetas\source\repos\Sesion 3\DBA3\EntityFramework\C.08.17.23.CreateTable\C.08.17.23.CreateTable\bin\Debug\C.08.17.23.CreateTable.pdb
+C:\Users\tetas\source\repos\Sesion 3\DBA3\EntityFramework\C.08.17.23.CreateTable\C.08.17.23.CreateTable\bin\Debug\EntityFramework.dll
+C:\Users\tetas\source\repos\Sesion 3\DBA3\EntityFramework\C.08.17.23.CreateTable\C.08.17.23.CreateTable\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tetas\source\repos\Sesion 3\DBA3\EntityFramework\C.08.17.23.CreateTable\C.08.17.23.CreateTable\bin\Debug\EntityFramework.xml
+C:\Users\tetas\source\repos\Sesion 3\DBA3\EntityFramework\C.08.17.23.CreateTable\C.08.17.23.CreateTable\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tetas\source\repos\Sesion 3\DBA3\EntityFramework\C.08.17.23.CreateTable\C.08.17.23.CreateTable\obj\Debug\C.08.17.23.CreateTable.csproj.AssemblyReference.cache
+C:\Users\tetas\source\repos\Sesion 3\DBA3\EntityFramework\C.08.17.23.CreateTable\C.08.17.23.CreateTable\obj\Debug\C.08.17.23.CreateTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\tetas\source\repos\Sesion 3\DBA3\EntityFramework\C.08.17.23.CreateTable\C.08.17.23.CreateTable\obj\Debug\C.08.17.23.CreateTable.csproj.CoreCompileInputs.cache
+C:\Users\tetas\source\repos\Sesion 3\DBA3\EntityFramework\C.08.17.23.CreateTable\C.08.17.23.CreateTable\obj\Debug\C.08.17.23.CreateTable.csproj.CopyComplete
+C:\Users\tetas\source\repos\Sesion 3\DBA3\EntityFramework\C.08.17.23.CreateTable\C.08.17.23.CreateTable\obj\Debug\C.08.17.23.CreateTable.exe
+C:\Users\tetas\source\repos\Sesion 3\DBA3\EntityFramework\C.08.17.23.CreateTable\C.08.17.23.CreateTable\obj\Debug\C.08.17.23.CreateTable.pdb
+C:\Users\allan\Programmation BD Avancée\C.08.17.23.CreateTable EF\C.08.17.23.CreateTable\C.08.17.23.CreateTable\bin\Debug\C.08.17.23.CreateTable.exe.config
+C:\Users\allan\Programmation BD Avancée\C.08.17.23.CreateTable EF\C.08.17.23.CreateTable\C.08.17.23.CreateTable\bin\Debug\C.08.17.23.CreateTable.exe
+C:\Users\allan\Programmation BD Avancée\C.08.17.23.CreateTable EF\C.08.17.23.CreateTable\C.08.17.23.CreateTable\bin\Debug\C.08.17.23.CreateTable.pdb
+C:\Users\allan\Programmation BD Avancée\C.08.17.23.CreateTable EF\C.08.17.23.CreateTable\C.08.17.23.CreateTable\bin\Debug\EntityFramework.dll
+C:\Users\allan\Programmation BD Avancée\C.08.17.23.CreateTable EF\C.08.17.23.CreateTable\C.08.17.23.CreateTable\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\allan\Programmation BD Avancée\C.08.17.23.CreateTable EF\C.08.17.23.CreateTable\C.08.17.23.CreateTable\bin\Debug\EntityFramework.xml
+C:\Users\allan\Programmation BD Avancée\C.08.17.23.CreateTable EF\C.08.17.23.CreateTable\C.08.17.23.CreateTable\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\allan\Programmation BD Avancée\C.08.17.23.CreateTable EF\C.08.17.23.CreateTable\C.08.17.23.CreateTable\obj\Debug\C.08.17.23.CreateTable.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD Avancée\C.08.17.23.CreateTable EF\C.08.17.23.CreateTable\C.08.17.23.CreateTable\obj\Debug\C.08.17.23.CreateTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD Avancée\C.08.17.23.CreateTable EF\C.08.17.23.CreateTable\C.08.17.23.CreateTable\obj\Debug\C.08.17.23.CreateTable.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD Avancée\C.08.17.23.CreateTable EF\C.08.17.23.CreateTable\C.08.17.23.CreateTable\obj\Debug\C.08.17.23.CreateTable.csproj.CopyComplete
+C:\Users\allan\Programmation BD Avancée\C.08.17.23.CreateTable EF\C.08.17.23.CreateTable\C.08.17.23.CreateTable\obj\Debug\C.08.17.23.CreateTable.exe
+C:\Users\allan\Programmation BD Avancée\C.08.17.23.CreateTable EF\C.08.17.23.CreateTable\C.08.17.23.CreateTable\obj\Debug\C.08.17.23.CreateTable.pdb

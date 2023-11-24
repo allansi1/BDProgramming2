@@ -1,0 +1,28 @@
+F:\CS-Tests\ExempleClassesMultiples3\Project1\bin\Debug\Project1.exe.config
+F:\CS-Tests\ExempleClassesMultiples3\Project1\bin\Debug\Project1.exe
+F:\CS-Tests\ExempleClassesMultiples3\Project1\bin\Debug\Project1.pdb
+F:\CS-Tests\ExempleClassesMultiples3\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+F:\CS-Tests\ExempleClassesMultiples3\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+F:\CS-Tests\ExempleClassesMultiples3\Project1\obj\Debug\Project1.exe
+F:\CS-Tests\ExempleClassesMultiples3\Project1\obj\Debug\Project1.pdb
+F:\Information System\C#-Material\ExempleClassesMultiples3 v2\Project1\bin\Debug\Project1.exe.config
+F:\Information System\C#-Material\ExempleClassesMultiples3 v2\Project1\bin\Debug\Project1.exe
+F:\Information System\C#-Material\ExempleClassesMultiples3 v2\Project1\bin\Debug\Project1.pdb
+F:\Information System\C#-Material\ExempleClassesMultiples3 v2\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+F:\Information System\C#-Material\ExempleClassesMultiples3 v2\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+F:\Information System\C#-Material\ExempleClassesMultiples3 v2\Project1\obj\Debug\Project1.exe
+F:\Information System\C#-Material\ExempleClassesMultiples3 v2\Project1\obj\Debug\Project1.pdb
+D:\C#-IG 2022\ExempleClassesMultiples3 v2\Project1\bin\Debug\Project1.exe.config
+D:\C#-IG 2022\ExempleClassesMultiples3 v2\Project1\bin\Debug\Project1.exe
+D:\C#-IG 2022\ExempleClassesMultiples3 v2\Project1\bin\Debug\Project1.pdb
+D:\C#-IG 2022\ExempleClassesMultiples3 v2\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+D:\C#-IG 2022\ExempleClassesMultiples3 v2\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\C#-IG 2022\ExempleClassesMultiples3 v2\Project1\obj\Debug\Project1.exe
+D:\C#-IG 2022\ExempleClassesMultiples3 v2\Project1\obj\Debug\Project1.pdb
+D:\C#-IG 2023\ExempleClassesMultiples3 v2\Project1\bin\Debug\Project1.exe.config
+D:\C#-IG 2023\ExempleClassesMultiples3 v2\Project1\bin\Debug\Project1.exe
+D:\C#-IG 2023\ExempleClassesMultiples3 v2\Project1\bin\Debug\Project1.pdb
+D:\C#-IG 2023\ExempleClassesMultiples3 v2\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+D:\C#-IG 2023\ExempleClassesMultiples3 v2\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\C#-IG 2023\ExempleClassesMultiples3 v2\Project1\obj\Debug\Project1.exe
+D:\C#-IG 2023\ExempleClassesMultiples3 v2\Project1\obj\Debug\Project1.pdb

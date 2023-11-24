@@ -1,0 +1,15 @@
+F:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI-EF v3 - IG\QueryGUI2-EF\QueryGUI2-EF\bin\Debug\QueryGUI2-EF.exe.config
+F:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI-EF v3 - IG\QueryGUI2-EF\QueryGUI2-EF\bin\Debug\QueryGUI2-EF.exe
+F:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI-EF v3 - IG\QueryGUI2-EF\QueryGUI2-EF\bin\Debug\QueryGUI2-EF.pdb
+F:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI-EF v3 - IG\QueryGUI2-EF\QueryGUI2-EF\bin\Debug\EntityFramework.dll
+F:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI-EF v3 - IG\QueryGUI2-EF\QueryGUI2-EF\bin\Debug\EntityFramework.SqlServer.dll
+F:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI-EF v3 - IG\QueryGUI2-EF\QueryGUI2-EF\bin\Debug\EntityFramework.xml
+F:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI-EF v3 - IG\QueryGUI2-EF\QueryGUI2-EF\bin\Debug\EntityFramework.SqlServer.xml
+F:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI-EF v3 - IG\QueryGUI2-EF\QueryGUI2-EF\obj\Debug\QueryGUI2-EF.csprojAssemblyReference.cache
+F:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI-EF v3 - IG\QueryGUI2-EF\QueryGUI2-EF\obj\Debug\QueryGUI2_EF.Form1.resources
+F:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI-EF v3 - IG\QueryGUI2-EF\QueryGUI2-EF\obj\Debug\QueryGUI2_EF.Properties.Resources.resources
+F:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI-EF v3 - IG\QueryGUI2-EF\QueryGUI2-EF\obj\Debug\QueryGUI2-EF.csproj.GenerateResource.cache
+F:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI-EF v3 - IG\QueryGUI2-EF\QueryGUI2-EF\obj\Debug\QueryGUI2-EF.csproj.CoreCompileInputs.cache
+F:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI-EF v3 - IG\QueryGUI2-EF\QueryGUI2-EF\obj\Debug\QueryGUI2-EF.csproj.CopyComplete
+F:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI-EF v3 - IG\QueryGUI2-EF\QueryGUI2-EF\obj\Debug\QueryGUI2-EF.exe
+F:\C# ADO.NET IG-2023\Exemples ADO.NET QueryGUI-EF v3 - IG\QueryGUI2-EF\QueryGUI2-EF\obj\Debug\QueryGUI2-EF.pdb

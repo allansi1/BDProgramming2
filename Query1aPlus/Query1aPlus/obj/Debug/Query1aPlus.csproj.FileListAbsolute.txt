@@ -1,0 +1,24 @@
+C:\Cours André Grasset\Session 3\PBD II\Query1aPlus\Query1aPlus\bin\Debug\Query1aPlus.exe.config
+C:\Cours André Grasset\Session 3\PBD II\Query1aPlus\Query1aPlus\bin\Debug\Query1aPlus.exe
+C:\Cours André Grasset\Session 3\PBD II\Query1aPlus\Query1aPlus\bin\Debug\Query1aPlus.pdb
+C:\Cours André Grasset\Session 3\PBD II\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.csproj.AssemblyReference.cache
+C:\Cours André Grasset\Session 3\PBD II\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.csproj.SuggestedBindingRedirects.cache
+C:\Cours André Grasset\Session 3\PBD II\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.Form1.resources
+C:\Cours André Grasset\Session 3\PBD II\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.Form2.resources
+C:\Cours André Grasset\Session 3\PBD II\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.Properties.Resources.resources
+C:\Cours André Grasset\Session 3\PBD II\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.csproj.GenerateResource.cache
+C:\Cours André Grasset\Session 3\PBD II\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.csproj.CoreCompileInputs.cache
+C:\Cours André Grasset\Session 3\PBD II\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.exe
+C:\Cours André Grasset\Session 3\PBD II\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.pdb
+C:\Users\allan\Downloads\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.csproj.AssemblyReference.cache
+C:\Users\allan\Downloads\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Downloads\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.Form1.resources
+C:\Users\allan\Downloads\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.Form2.resources
+C:\Users\allan\Downloads\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.Properties.Resources.resources
+C:\Users\allan\Downloads\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.csproj.GenerateResource.cache
+C:\Users\allan\Downloads\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.csproj.CoreCompileInputs.cache
+C:\Users\allan\Downloads\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.exe
+C:\Users\allan\Downloads\Query1aPlus\Query1aPlus\obj\Debug\Query1aPlus.pdb
+C:\Users\allan\Downloads\Query1aPlus\Query1aPlus\bin\Debug\Query1aPlus.exe.config
+C:\Users\allan\Downloads\Query1aPlus\Query1aPlus\bin\Debug\Query1aPlus.exe
+C:\Users\allan\Downloads\Query1aPlus\Query1aPlus\bin\Debug\Query1aPlus.pdb

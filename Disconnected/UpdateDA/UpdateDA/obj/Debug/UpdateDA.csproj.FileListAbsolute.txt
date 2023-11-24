@@ -1,0 +1,8 @@
+C:\Users\allan\Programmation BD avancée disconnected mode\UpdateDA\UpdateDA\bin\Debug\UpdateDA.exe.config
+C:\Users\allan\Programmation BD avancée disconnected mode\UpdateDA\UpdateDA\bin\Debug\UpdateDA.exe
+C:\Users\allan\Programmation BD avancée disconnected mode\UpdateDA\UpdateDA\bin\Debug\UpdateDA.pdb
+C:\Users\allan\Programmation BD avancée disconnected mode\UpdateDA\UpdateDA\obj\Debug\UpdateDA.csproj.AssemblyReference.cache
+C:\Users\allan\Programmation BD avancée disconnected mode\UpdateDA\UpdateDA\obj\Debug\UpdateDA.csproj.SuggestedBindingRedirects.cache
+C:\Users\allan\Programmation BD avancée disconnected mode\UpdateDA\UpdateDA\obj\Debug\UpdateDA.csproj.CoreCompileInputs.cache
+C:\Users\allan\Programmation BD avancée disconnected mode\UpdateDA\UpdateDA\obj\Debug\UpdateDA.exe
+C:\Users\allan\Programmation BD avancée disconnected mode\UpdateDA\UpdateDA\obj\Debug\UpdateDA.pdb
